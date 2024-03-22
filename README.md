@@ -18,5 +18,3 @@ Para utilizar os códigos deste repositório, você precisará de um ambiente de
 
 Este repositório está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
 
----
-*Nota: Este README é apenas um exemplo e pode ser adaptado conforme necessário para refletir as especificidades do seu curso e do ambiente de desenvolvimento.*
